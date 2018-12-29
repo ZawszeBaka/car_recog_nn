@@ -1,7 +1,3 @@
-LAB4 - AI and Machine Learning Training - Tensorflow
-Author: Huynh Nguyen Truong Thinh - 1613343
-Link fb: fb.com/relife.baka
-
 [=] Collecting dataset:
 
     Save positive images in raw_datasets/pos
